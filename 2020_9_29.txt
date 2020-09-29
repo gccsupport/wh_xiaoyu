@@ -1,4 +1,4 @@
 1.在iconfont建立项目icon库
-2.上传完成DBchain的全部页内图标
+2.上传完成DBchain的全部页内svg图标
 3.沟通DBCchain的页面组成前端实现
 4.修改DBChain的页内数值整数化
